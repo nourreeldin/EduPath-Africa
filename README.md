@@ -18,9 +18,3 @@ To empower African students by increasing access to quality education and prepar
 ## Related Links
 - [Wireframe Prototype](https://wireframe.cc/pro/pp/1fb484cf1785423)
 
-## How to Contribute
-1. Fork the repository.
-2. Create a new branch for your feature `git checkout -b feature-name`.
-3. Commit your changes `git commit -m 'Add a new feature'`.
-4. Push to the branch `git push origin feature-name`.
-5. Open a pull request.
